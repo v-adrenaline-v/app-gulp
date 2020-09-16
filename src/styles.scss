@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+
+  main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    #block {
+      width: 25rem;
+      padding: 3rem;
+      border: 1px solid;
+      font-size: 2rem;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  }
+}
